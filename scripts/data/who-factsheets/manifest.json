@@ -1,0 +1,176 @@
+[
+  {
+    "file": "typhoid.txt",
+    "title": "Typhoid (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/typhoid",
+    "topicTags": [
+      "typhoid",
+      "waterborne",
+      "fever"
+    ],
+    "publishedDate": "2023-03-30"
+  },
+  {
+    "file": "cholera.txt",
+    "title": "Cholera (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/cholera",
+    "topicTags": [
+      "cholera",
+      "waterborne",
+      "diarrhoea"
+    ],
+    "publishedDate": "2026-09-29"
+  },
+  {
+    "file": "diarrhoeal-disease.txt",
+    "title": "Diarrhoeal disease (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+    "topicTags": [
+      "diarrhoea",
+      "children",
+      "waterborne"
+    ],
+    "publishedDate": "2024-03-07"
+  },
+  {
+    "file": "hepatitis-b.txt",
+    "title": "Hepatitis B (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+    "topicTags": [
+      "hepatitis-b",
+      "liver",
+      "vaccination"
+    ],
+    "publishedDate": "2026-07-28"
+  },
+  {
+    "file": "chikungunya.txt",
+    "title": "Chikungunya (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+    "topicTags": [
+      "chikungunya",
+      "mosquito-borne"
+    ],
+    "publishedDate": "2025-04-14"
+  },
+  {
+    "file": "japanese-encephalitis.txt",
+    "title": "Japanese encephalitis (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis",
+    "topicTags": [
+      "japanese-encephalitis",
+      "mosquito-borne",
+      "vaccination"
+    ],
+    "publishedDate": "2024-08-06"
+  },
+  {
+    "file": "measles.txt",
+    "title": "Measles (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/measles",
+    "topicTags": [
+      "measles",
+      "children",
+      "vaccination"
+    ],
+    "publishedDate": "2026-07-15"
+  },
+  {
+    "file": "rabies.txt",
+    "title": "Rabies (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+    "topicTags": [
+      "rabies",
+      "dog-bite",
+      "vaccination"
+    ],
+    "publishedDate": "2026-09-17"
+  },
+  {
+    "file": "influenza-seasonal.txt",
+    "title": "Influenza (seasonal) (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)",
+    "topicTags": [
+      "influenza",
+      "seasonal-illnesses",
+      "vaccination"
+    ],
+    "publishedDate": "2025-02-28"
+  },
+  {
+    "file": "pneumonia.txt",
+    "title": "Pneumonia in children (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/pneumonia",
+    "topicTags": [
+      "pneumonia",
+      "children",
+      "respiratory"
+    ],
+    "publishedDate": "2022-11-11"
+  },
+  {
+    "file": "asthma.txt",
+    "title": "Asthma (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "topicTags": [
+      "asthma",
+      "respiratory"
+    ],
+    "publishedDate": "2026-04-28"
+  },
+  {
+    "file": "anaemia.txt",
+    "title": "Anaemia (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/anaemia",
+    "topicTags": [
+      "anaemia",
+      "nutrition"
+    ],
+    "publishedDate": "2025-02-10"
+  },
+  {
+    "file": "leprosy.txt",
+    "title": "Leprosy (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/leprosy",
+    "topicTags": [
+      "leprosy",
+      "skin"
+    ],
+    "publishedDate": "2026-01-23"
+  },
+  {
+    "file": "hiv-aids.txt",
+    "title": "HIV and AIDS (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+    "topicTags": [
+      "hiv",
+      "aids"
+    ],
+    "publishedDate": "2026-07-27"
+  },
+  {
+    "file": "chronic-obstructive-pulmonary-disease-copd.txt",
+    "title": "Chronic obstructive pulmonary disease (COPD) (WHO fact sheet)",
+    "sourceName": "WHO",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)",
+    "topicTags": [
+      "copd",
+      "respiratory"
+    ],
+    "publishedDate": "2026-06-10"
+  }
+]
